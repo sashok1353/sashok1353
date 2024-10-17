@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleksandr Rakhlinskyi
 - 👀 I’m interested in programming
-- 🌱 I’m android and web developer
+- 🌱 I’m mobile and web developer
 - 💞️ I'm open for a some work
 - 📫 DM me in Telegram @rakhlinskyi
 
